@@ -1,0 +1,16 @@
+D:\DA1_QLCH\DA1_QLCH\bin\Debug\DA1_QLCH.exe.config
+D:\DA1_QLCH\DA1_QLCH\bin\Debug\DA1_QLCH.exe
+D:\DA1_QLCH\DA1_QLCH\bin\Debug\DA1_QLCH.pdb
+D:\DA1_QLCH\DA1_QLCH\bin\Debug\BUS.dll
+D:\DA1_QLCH\DA1_QLCH\bin\Debug\DTO.dll
+D:\DA1_QLCH\DA1_QLCH\bin\Debug\BUS.pdb
+D:\DA1_QLCH\DA1_QLCH\bin\Debug\DTO.pdb
+D:\DA1_QLCH\DA1_QLCH\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\DA1_QLCH\DA1_QLCH\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\DA1_QLCH\DA1_QLCH\obj\Debug\DA1_QLCH.Properties.Resources.resources
+D:\DA1_QLCH\DA1_QLCH\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\DA1_QLCH\DA1_QLCH\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\DA1_QLCH\DA1_QLCH\obj\Debug\GUI.csproj.CopyComplete
+D:\DA1_QLCH\DA1_QLCH\obj\Debug\DA1_QLCH.exe
+D:\DA1_QLCH\DA1_QLCH\obj\Debug\DA1_QLCH.pdb
+D:\DA1_QLCH\DA1_QLCH\obj\Debug\DA1_QLCH.Form1.resources
